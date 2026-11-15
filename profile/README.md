@@ -10,10 +10,18 @@ A weekly working group of NYU researchers and doctoral students reading, critiqu
 
 The Papers Group is the internal research team behind a growing body of work on AI in behavioral health: multi-agent systems, just-in-time adaptive interventions (JITAI), computational phenotyping, and AI-assisted qualitative analysis. Members meet to discuss new papers in the field and to advance the group's own manuscripts from first draft to submission. The group is organized by Besa Bauta, Keng-Yen Huang, and Hyungrok Do.
 
+## What we do
+
+- **Read and critique** new AI/ML research, with a focus on behavioral health, mental health, and health services.
+- **Write together**: the group's manuscripts move from first draft to submission inside the group, with shared timelines and team review rounds.
+- **Build and test** analysis approaches, including AI as an inter-rater reliability agent for qualitative data and multi-agent frameworks for precision behavioral health.
+- **Connect** NYU work with partners at Kaohsiung Medical University, Academia Sinica, Carnegie Mellon University, and the Sapien Labs Global Mind Project.
+
 ## Meetings
 
 - **Tuesdays, 11:00 AM to 12:00 PM ET**, on Zoom.
 - Each session combines a paper discussion with workstream updates and a check-in on the group's manuscripts.
+- Agendas and notes are kept in the group's private repository, under Meeting Notes.
 
 ## Members
 
@@ -45,7 +53,7 @@ The group's writing program for 2026-27, in priority order:
 5. Two pediatric obesity papers
 6. Hallucination paradox meta-analysis
 
-Near-term milestones: the multi-agent literature review is drafted by December 1, 2026 and submitted by January 15, 2027.
+Near-term milestones: the multi-agent literature review is drafted by December 1, 2026 and submitted by January 15, 2027. The full schedule is in the group's private repository (Paper-Group-Timeline.xlsx and Paper-Group-Publication-Timeline-to-January-2027.docx).
 
 ## Collaborations
 
@@ -56,6 +64,9 @@ Near-term milestones: the multi-agent literature review is drafted by December 1
 ## This organization
 
 This GitHub organization is the group's shared home for code, analysis scripts, paper notes, and writing projects. It is the internal companion to the broader NYU AI-ML Collaborative.
+
+- **papers-group** (private, members only): the team's working repository. It mirrors the group's Google Drive folder and holds the meeting notes and agendas, the JITAI PLOS Digital Health submission package, the multi-agent article files, shared articles and resources, and the publication timeline.
+- Members: if you were invited, accept the organization invitation from your email, then open the papers-group repository. Everything the team works on lives there.
 
 ## Contact
 
