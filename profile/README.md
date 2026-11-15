@@ -29,11 +29,11 @@ The Papers Group is the internal research team behind a growing body of work on 
 - **Keng-Yen Huang**, Professor of Population Health and Child and Adolescent Psychiatry, NYU Langone Health (co-organizer)
 - **Hyungrok Do**, Assistant Professor of Biostatistics, NYU Grossman School of Medicine (co-organizer)
 - **Hana Bauta**, Cornell University
-- **Eric Chou**, NYU
+- **Eric Chou**, Cornell University
 - **Asma Darwish**, Cornell University
 - **Reet Kapur**, NYU
 - **Justin Liu**, Cornell University
-- **Sean Craig**, NYU
+- **Sean Craig**
 
 ## Current workstreams
 
